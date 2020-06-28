@@ -1,1 +1,1 @@
-tcp://2.tcp.ngrok.io:15928 
+https://244099145ff3.ngrok.io 
